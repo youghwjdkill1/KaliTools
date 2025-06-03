@@ -1,5 +1,14 @@
 # KaliTools
 
+<h1> Manual </h1>
+
+1. git clone https://github.com/youghwjdkill1/KaliTools.git
+2. cd KaliTools
+3. chmod first_apt_install.sh first_git_install.sh
+4. ./first_apt_install.sh
+5. cd ..
+6. ./first_git_install.sh
+
 <h1> first_apt_install.sh download list </h1>
 
 1. maltego
